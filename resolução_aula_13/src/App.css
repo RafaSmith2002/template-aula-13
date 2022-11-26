@@ -1,0 +1,20 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body{
+  background-color: #afafaf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin: auto;
+}
+#buttons-contain{
+  display: flex;
+  justify-content: space-around;
+}
+h1{
+  text-align: center;
+}
